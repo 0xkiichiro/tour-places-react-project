@@ -18,15 +18,14 @@
 }
 
 @include media-xsm {
-  .nav-bar {
+  .navbar {
     flex-direction: column;
     text-align: center;
   }
 }
 
 @include media-sm {
-  .nav-bar {
+  .navbar {
     flex-direction: row;
-    text-align: center;
   }
 }
