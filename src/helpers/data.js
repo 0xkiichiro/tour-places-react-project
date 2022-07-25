@@ -79,4 +79,11 @@ export const data = [
     image:
       "https://images.unsplash.com/photo-1444076784383-69ff7bae1b0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxvd2VyJTIwYW50ZWxvcGUlMjBjYW55b258ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
   },
+
+  {
+    id: 13,
+    title: "Bayirdami Village - Aydin",
+    desc: "Milou 101",
+    image: "https://d.koylerim.com/gallery/13065_6.jpg",
+  },
 ];
