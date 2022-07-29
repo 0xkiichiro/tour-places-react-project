@@ -8,9 +8,9 @@ Fully responsive.
 
 HTML, CSS, JS, React.js
 
-## Check the full-functioning site at:
+## Check the full-functioning site at: https://0xkiichiro.github.io/tour-places-react-project/
 
-![]()
+![](https://github.com/0xkiichiro/tour-places-react-project/blob/master/Animation.gif)
 
 ## Comments
 
